@@ -1,0 +1,6 @@
+ERROR:9:package com.googlecode.javacv.cpp does not exist
+ERROR:10:package com.googlecode.javacv.cpp does not exist
+ERROR:11:package com.googlecode.javacv.cpp does not exist
+ERROR:26:cannot find symbol\n  symbol\d   class IplImage\n  location\d class app001_po.App001_PO
+ERROR:26:cannot find symbol\n  symbol\d   method cvLoadImage(java.lang.String)\n  location\d class app001_po.App001_PO
+ERROR:28:cannot find symbol\n  symbol\d   variable CV_GAUSSIAN\n  location\d class app001_po.App001_PO

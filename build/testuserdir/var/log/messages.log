@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------
->Log Session: Tuesday, February 5, 2013 11:11:42 AM EET
+>Log Session: Tuesday, February 5, 2013 1:38:54 PM EET
 >System Info: 
   Product Version         = NetBeans IDE 7.3 RC1 (Build 201301240957) (#241d4396a86f)
   Operating System        = Windows 7 version 6.1 running on amd64
@@ -471,11 +471,7 @@ WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.user 
 WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.user has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.modules.versioning.masterfs.FilesystemInterceptor.getRootFilesystem(FilesystemInterceptor.java:81)
 WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.user has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.modules.java.j2seproject.J2SEProject$ProjectOpenedHookImpl$1$1.run(J2SEProject.java:601)
 WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.user has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.modules.versioning.core.VersioningManager.getLocalHistory(VersioningManager.java:482)
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 718 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 16 binary roots took: 140 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\coglab\Documents\NetBeansProjects\App002_PO\src took: 78 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\coglab\Documents\NetBeansProjects\App002_PO\test took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 2 source roots took: 78 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.user has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.modules.spellchecker.ComponentPeer.getUsersLocalDictionary(ComponentPeer.java:442)
 Diagnostic information
 Input arguments:
 	-Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade
@@ -510,10 +506,14 @@ Compiler: HotSpot 64-Bit Tiered Compilers
 Heap memory usage: initial 32.0MB maximum 682.7MB
 Non heap memory usage: initial 34.4MB maximum 432.0MB
 Garbage collector: PS Scavenge (Collections=17 Total time spent=0s)
-Garbage collector: PS MarkSweep (Collections=3 Total time spent=0s)
-Classes: loaded=9196 total loaded=9197 unloaded 1
+Garbage collector: PS MarkSweep (Collections=2 Total time spent=0s)
+Classes: loaded=10244 total loaded=10244 unloaded 0
 INFO [org.netbeans.core.ui.warmup.DiagnosticTask]: Total memory 12,729,581,568
-WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.user has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.modules.spellchecker.ComponentPeer.getUsersLocalDictionary(ComponentPeer.java:442)
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 1,080 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 16 binary roots took: 680 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\coglab\Documents\NetBeansProjects\App002_PO\src took: 70 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 10 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\coglab\Documents\NetBeansProjects\App002_PO\test took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 2 source roots took: 70 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 10 ms]
 WARNING [org.openide.filesystems.Ordering]: Found same position 500 for both Loaders/text/x-java/Actions/CutAction.shadow and Loaders/text/x-java/Actions/org-openide-actions-CopyAction-separatorAfter.instance
 WARNING [org.openide.filesystems.Ordering]: Found same position 400 for both Loaders/text/x-java/Actions/Separator3.instance and Loaders/text/x-java/Actions/org-openide-actions-CopyAction.shadow
 WARNING [org.openide.filesystems.Ordering]: Found same position 300 for both Loaders/text/x-java/Actions/Separator1.instance and Loaders/text/x-java/Actions/org-openide-actions-CutAction.shadow

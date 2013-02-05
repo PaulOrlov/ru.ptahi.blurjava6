@@ -44,10 +44,10 @@
     <active-mode name="editor"/>
     <toolbar configuration="Standard" preferred-icon-size="24"/>
     <tc-list>
-  <tc-id id="MultiView-BlurJavaMod243DDC47xt#002Ehistory#007C_1"/>
+  <tc-id id="MultiView-BlurJavaMod243DDC48xt#002Ehistory#007C_2"/>
   <tc-id id="projectTabLogical_tc"/>
   <tc-id id="navigatorTC"/>
-  <tc-id id="projectTab_tc"/>
   <tc-id id="services"/>
+  <tc-id id="projectTab_tc"/>
     </tc-list>
 </windowmanager>
