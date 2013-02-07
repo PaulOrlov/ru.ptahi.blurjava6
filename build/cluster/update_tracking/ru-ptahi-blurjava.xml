@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="ru.ptahi.blurjava">
-    <module_version install_time="1360064333576" last="true" origin="installer" specification_version="1.0">
+    <module_version install_time="1360242072008" last="true" origin="installer" specification_version="1.0">
         <file crc="3622670148" name="config/Modules/ru-ptahi-blurjava.xml"/>
         <file crc="1909935737" name="modules/ext/OpenCV.jar"/>
         <file crc="1605202949" name="modules/ext/core.jar"/>
@@ -145,6 +145,6 @@
         <file crc="1953748723" name="modules/ext/newt-natives-windows-i586.jar"/>
         <file crc="1961306297" name="modules/ext/newt-ogl.jar"/>
         <file crc="9838100" name="modules/ext/newt-swt.jar"/>
-        <file crc="2549648186" name="modules/ru-ptahi-blurjava.jar"/>
+        <file crc="1930159376" name="modules/ru-ptahi-blurjava.jar"/>
     </module_version>
 </module>

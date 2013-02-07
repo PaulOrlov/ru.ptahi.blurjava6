@@ -5,8 +5,8 @@
   <joined-properties
    x="64"
    y="69"
-   width="1152"
-   height="885"
+   width="1093"
+   height="829"
    relative-x="0.0"
    relative-y="0.0"
    relative-width="0.0"
@@ -44,7 +44,7 @@
     <active-mode name="editor"/>
     <toolbar configuration="Standard" preferred-icon-size="24"/>
     <tc-list>
-  <tc-id id="MultiView-BlurJavaMod243DDC48xt#002Ehistory#007C_2"/>
+  <tc-id id="MultiView-BlurJavaMod243DDC47xt#002Ehistory#007C_1"/>
   <tc-id id="projectTabLogical_tc"/>
   <tc-id id="navigatorTC"/>
   <tc-id id="services"/>

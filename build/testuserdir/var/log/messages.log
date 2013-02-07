@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------
->Log Session: Tuesday, February 5, 2013 1:38:54 PM EET
+>Log Session: Thursday, February 7, 2013 3:01:12 PM EET
 >System Info: 
   Product Version         = NetBeans IDE 7.3 RC1 (Build 201301240957) (#241d4396a86f)
   Operating System        = Windows 7 version 6.1 running on amd64
@@ -108,7 +108,7 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.java.lexer/1 [1.21.1 201301240957]
 	org.netbeans.modules.editor.indent.project/0 [1.12.1 201301240957]
 	org.netbeans.modules.java.source [0.110.1.23.1.20.6 23 201301240957]
-	ru.ptahi.blurjava [1.0 130205]
+	ru.ptahi.blurjava [1.0 130207]
 	org.netbeans.upgrader [4.25.1 201301240957]
 	org.netbeans.swing.dirchooser [1.19.1 201301240957]
 	org.netbeans.spi.viewmodel/2 [1.39.1 201301240957]
@@ -472,6 +472,7 @@ WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.user 
 WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.user has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.modules.java.j2seproject.J2SEProject$ProjectOpenedHookImpl$1$1.run(J2SEProject.java:601)
 WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.user has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.modules.versioning.core.VersioningManager.getLocalHistory(VersioningManager.java:482)
 WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.user has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.modules.spellchecker.ComponentPeer.getUsersLocalDictionary(ComponentPeer.java:442)
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 940 ms
 Diagnostic information
 Input arguments:
 	-Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade
@@ -507,13 +508,12 @@ Heap memory usage: initial 32.0MB maximum 682.7MB
 Non heap memory usage: initial 34.4MB maximum 432.0MB
 Garbage collector: PS Scavenge (Collections=17 Total time spent=0s)
 Garbage collector: PS MarkSweep (Collections=2 Total time spent=0s)
-Classes: loaded=10244 total loaded=10244 unloaded 0
+Classes: loaded=10624 total loaded=10624 unloaded 0
 INFO [org.netbeans.core.ui.warmup.DiagnosticTask]: Total memory 12,729,581,568
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 1,080 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 16 binary roots took: 680 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\coglab\Documents\NetBeansProjects\App002_PO\src took: 70 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 10 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 16 binary roots took: 780 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\coglab\Documents\NetBeansProjects\App002_PO\src took: 80 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
 INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\coglab\Documents\NetBeansProjects\App002_PO\test took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 2 source roots took: 70 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 10 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 2 source roots took: 80 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
 WARNING [org.openide.filesystems.Ordering]: Found same position 500 for both Loaders/text/x-java/Actions/CutAction.shadow and Loaders/text/x-java/Actions/org-openide-actions-CopyAction-separatorAfter.instance
 WARNING [org.openide.filesystems.Ordering]: Found same position 400 for both Loaders/text/x-java/Actions/Separator3.instance and Loaders/text/x-java/Actions/org-openide-actions-CopyAction.shadow
 WARNING [org.openide.filesystems.Ordering]: Found same position 300 for both Loaders/text/x-java/Actions/Separator1.instance and Loaders/text/x-java/Actions/org-openide-actions-CutAction.shadow
@@ -538,6 +538,9 @@ INFO [org.netbeans.modules.autoupdate.updateprovider.AutoupdateCatalogParser]: U
 INFO [org.netbeans.modules.autoupdate.updateprovider.AutoupdateCatalogParser]: Unpaired license 00000001 without any module.
 INFO [org.netbeans.modules.autoupdate.updateprovider.AutoupdateCatalogParser]: Unpaired license 00000001 without any module.
 WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.user has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.modules.uihandler.Installer.logsDirectory(Installer.java:832)
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 0 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 0 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 source roots took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
 INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 0 ms
 INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 0 ms
 INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 source roots took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
